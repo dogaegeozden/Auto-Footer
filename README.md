@@ -20,7 +20,7 @@ This is an automatic footer for a fictional company. It updates the copyright ye
 
 1) Update and upgrade your linux server/machine.
 
-	   sudo apt updage && sudo apt upgrade
+	   sudo apt update && sudo apt upgrade
 
 2) Install dependencies.
 
