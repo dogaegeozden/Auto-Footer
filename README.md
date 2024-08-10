@@ -4,7 +4,6 @@ This is an automatic footer for a fictional company. It updates the copyright ye
 
 ## Features:
 
-- Displays server information
 - Lists social media links
 - Updates the copyright year automatically
 
